@@ -23,7 +23,7 @@ export default function HistoryPage() {
 
         // Title
         doc.setFontSize(18);
-        doc.text("Laporan Pesanan - Qryawan Cafe", 14, 22);
+        doc.text("Laporan Pesanan - Dustore", 14, 22);
 
         doc.setFontSize(11);
         doc.text(`Dicetak pada: ${new Date().toLocaleString()}`, 14, 30);
