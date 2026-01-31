@@ -8,11 +8,6 @@ import {
   IconInnerShadowTop,
   IconListDetails,
   IconReport,
-  IconUser,
-  IconChartBar,
-  IconHistory,
-  IconShoppingBag,
-  IconLayoutDashboard,
 } from "@tabler/icons-react"
 
 import { NavMain } from "@/components/nav-main"
