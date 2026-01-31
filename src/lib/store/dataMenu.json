@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1,
+        "name": "Menu 1",
+        "price": 10000,
+        "image": "https://avatar.vercel.sh/shadcn1"
+    },
+    {
+        "id": 2,
+        "name": "Menu 2",
+        "price": 20000,
+        "image": "https://avatar.vercel.sh/shadcn2"
+    },
+    {
+        "id": 3,
+        "name": "Menu 3",
+        "price": 30000,
+        "image": "https://avatar.vercel.sh/shadcn3"
+    }
+]
